@@ -1,10 +1,11 @@
 # Getting Started with restaurant_web
 
-URL for Deployed Application: https://jobseow.github.io/restaurant_web/
+###  URL for Deployed Application: https://jobseow.github.io/restaurant_web/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 File Structure:
+
 ![image](https://github.com/JobSeow/restaurant_web/assets/46678618/dd2e1e63-e81a-44db-a2ee-a86132d03eeb)
 
 Continuous Deployment for Frontend UI
