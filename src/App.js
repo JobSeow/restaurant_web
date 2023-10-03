@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import {TextField} from "@mui/material";
 
 function App() {
   return (
@@ -9,14 +10,9 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <form>
+          <TextField id="filled-basic" label="Restaurant name" variant="filled" />
+        </form>
       </header>
     </div>
   );
